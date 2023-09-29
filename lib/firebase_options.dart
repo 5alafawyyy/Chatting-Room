@@ -44,37 +44,37 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDcuVLhHXIJOsZisExrMhyUcDVMOVEK7as',
-    appId: '1:830220566331:web:fdd8a7e70124ba3ce4411e',
-    messagingSenderId: '830220566331',
-    projectId: 'chatting-room-6dfee',
-    authDomain: 'chatting-room-6dfee.firebaseapp.com',
-    storageBucket: 'chatting-room-6dfee.appspot.com',
+    apiKey: 'AIzaSyCQqYOAI7IDpnpuBmAJrLgkxVB2kEqbWS8',
+    appId: '1:599981693953:web:b69e8ff29a8240888cf400',
+    messagingSenderId: '599981693953',
+    projectId: 'chatroom-60b42',
+    authDomain: 'chatroom-60b42.firebaseapp.com',
+    storageBucket: 'chatroom-60b42.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDQGft8SmrDxQQGCrojo1DQ5Vc524V3o38',
-    appId: '1:830220566331:android:c2156c5eef05f6a8e4411e',
-    messagingSenderId: '830220566331',
-    projectId: 'chatting-room-6dfee',
-    storageBucket: 'chatting-room-6dfee.appspot.com',
+    apiKey: 'AIzaSyB06wgrWHJWZ9HJZguI-rGX87T8apkGpK0',
+    appId: '1:599981693953:android:66cb748ed10909288cf400',
+    messagingSenderId: '599981693953',
+    projectId: 'chatroom-60b42',
+    storageBucket: 'chatroom-60b42.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA1c78-mRVNqQ_yAwNu8KA-evNJjGvRmDw',
-    appId: '1:830220566331:ios:09641b01ffc20e65e4411e',
-    messagingSenderId: '830220566331',
-    projectId: 'chatting-room-6dfee',
-    storageBucket: 'chatting-room-6dfee.appspot.com',
-    iosBundleId: 'com.khalafawy.chattingroom',
+    apiKey: 'AIzaSyBVqBltLyZCWArrft-EwACIiu2ohGt7rJE',
+    appId: '1:599981693953:ios:c2f426546d4f63718cf400',
+    messagingSenderId: '599981693953',
+    projectId: 'chatroom-60b42',
+    storageBucket: 'chatroom-60b42.appspot.com',
+    iosBundleId: 'com.khalafawy.chatroom',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA1c78-mRVNqQ_yAwNu8KA-evNJjGvRmDw',
-    appId: '1:830220566331:ios:0d8ab804d777fb1ce4411e',
-    messagingSenderId: '830220566331',
-    projectId: 'chatting-room-6dfee',
-    storageBucket: 'chatting-room-6dfee.appspot.com',
-    iosBundleId: 'com.khalafawy.chattingroom.RunnerTests',
+    apiKey: 'AIzaSyBVqBltLyZCWArrft-EwACIiu2ohGt7rJE',
+    appId: '1:599981693953:ios:afe15a079dacae8b8cf400',
+    messagingSenderId: '599981693953',
+    projectId: 'chatroom-60b42',
+    storageBucket: 'chatroom-60b42.appspot.com',
+    iosBundleId: 'com.khalafawy.chatroom.RunnerTests',
   );
 }
