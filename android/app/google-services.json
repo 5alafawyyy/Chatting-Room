@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830220566331",
+    "project_id": "chatting-room-6dfee",
+    "storage_bucket": "chatting-room-6dfee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830220566331:android:c2156c5eef05f6a8e4411e",
+        "android_client_info": {
+          "package_name": "com.khalafawy.chattingroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQGft8SmrDxQQGCrojo1DQ5Vc524V3o38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
